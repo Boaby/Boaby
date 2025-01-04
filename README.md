@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bob
 - 👀 I’m interested in ... Blockchain/DLT and Enterprise Readiness
-- 🌱 I’m currently learning ... how to be a better leader
+- 🌱 I’m currently learning ... how to be a better leader and expanding my knowledge of the Financial Services Industry
 - 💞️ I’m looking to collaborate on ... DLT cross industry initiatives
 - 📫 How to reach me ... bobcrozier8@gmail.com
 
